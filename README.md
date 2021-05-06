@@ -5,4 +5,4 @@ The wordlist I used for the attack could be specified by me as I used sys.argv.
 
 ## Usage ## 
 
-$ python3 bruteforcerv1.py <wordlist_path> <url>
+<code> $ python3 bruteforcerv1.py < wordlist_path > < url > </code>
